@@ -1,0 +1,37 @@
+.container {
+  /* width: 65%; */
+  /* clip-path: polygon(7% 99%, 0% 66%, 0% 0%, 90% 0%, 100% 26%, 100% 100%);
+  background: #1e2226; */
+  background-image: url(../assets/input_box.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 5px;
+  padding: 12px 60px;
+}
+
+.image_icon {
+  border-radius: 6px;
+  margin: 5px;
+  padding: 5px;
+  background: #1e2226;
+  border: 0.5px solid rgb(60, 58, 58);
+}
+
+.mer {
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 12px;
+  color: #767e85;
+}
+
+.info_icon {
+  background: #1e2226;
+  border: 0.5px solid rgb(60, 58, 58);
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.info_icon:hover {
+  background: orange;
+}

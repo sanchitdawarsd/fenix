@@ -1,0 +1,27 @@
+.head {
+  /* border-radius: 8px !important; */
+  /* border: 1px solid #2b2a29 !important; */
+  background-color: transparent !important;
+  background-image: url(../assets/header_frame.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head .nav-link {
+  margin: 0px 2px;
+  padding: 8px 15px !important;
+  border-radius: 8px;
+}
+
+.head .nav-link:focus,
+.nav-link:hover {
+  color: #e06023 !important;
+  background-color: #363434 !important;
+  /* border: 0.5px solid #2b2a29 !important; */
+}
+
+.wallet_connect_btn {
+  margin-left: 3rem;
+  margin-right: 6rem;
+}

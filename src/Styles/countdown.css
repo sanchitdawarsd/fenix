@@ -1,0 +1,12 @@
+.timer_box {
+  width: 35px;
+  /* border: 0.5px solid #766b6b; */
+  background: #272729;
+  padding: 3px;
+  margin: 5px 15px;
+  border-radius: 5px;
+}
+
+.timer_label {
+  color: #767e85;
+}

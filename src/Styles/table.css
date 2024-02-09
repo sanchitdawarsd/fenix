@@ -1,0 +1,56 @@
+.table_main {
+  color: white;
+}
+
+.table_main select {
+  color: white;
+  background-color: transparent;
+  border: none;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0 1em;
+}
+
+tbody tr {
+  padding: 1.5rem 1rem !important;
+  vertical-align: middle;
+  background-image: url(../assets/table_row_bg.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+th:last-child {
+  text-align: end;
+}
+
+th:nth-child(2),
+th:nth-child(3) {
+  text-align: end;
+}
+
+td:nth-child(2),
+td:nth-child(3) {
+  text-align: end;
+}
+
+td:first-child {
+  width: 50%;
+  font-size: 15px;
+}
+
+td:last-child {
+  text-align: end;
+}
+
+.claim_btn {
+  color: gray;
+  font-size: 12px;
+  font-weight: lighter;
+  border: 0.5px solid gray;
+  border-radius: 12px;
+  background: rgb(44, 42, 42);
+  padding: 0.5rem 1rem;
+}

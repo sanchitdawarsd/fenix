@@ -1,0 +1,21 @@
+.startnow_container {
+  /* width: 100%; */
+  background-image: url(../assets/input_box.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 5px 15px;
+  /* clip-path: polygon(7% 99%, 0% 66%, 0% 0%, 90% 0%, 100% 26%, 100% 100%); */
+  /* background: #1e2226; */
+}
+
+.startnow_mer {
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 12px;
+  color: #767e85;
+}
+
+.startnow_text_detail {
+  font-size: 10px;
+}
